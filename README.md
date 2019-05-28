@@ -57,6 +57,3 @@ A full listing of files, with descriptions is below:
         - Term.java - internal data class
         - TermGroup.java - internal data class
         - TermPair.java - internal data class
-      - test/
-        - TestGetTerms.java - Test class
-        - TestTermGroup.java - Test class
