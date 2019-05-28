@@ -1,0 +1,62 @@
+Content:
+
+Rank the following four sentences from easiest to understand to hardest to understand.
+
+
+A: {{sentence1}}
+B: {{sentence2}}
+C: {{sentence3}}
+D: {{sentence4}}
+
+
+Question 1: Which is the easiest to understand statement?(required)
+Options: A, B, C, D
+
+Question 2: Which is the second easiest to understand statement?
+Options: A, B, C, D
+
+Question 3: Which is the third easiest (i.e., second hardest) to understand statement
+Options: A, B, C, D
+
+Question 4: Which is the fourth easiest (i.e., hardest) to understand statement
+Options: A, B, C, D
+
+
+
+Overview
+
+In this task you must rank 4 sentences from easiest to understand to hardest to understand. The sentences are taken from clinical discharge letters and have been automatically processed to make them easier to understand. We want to find out which of the various methods we have used to improve the sentences is the best. You don't need to worry too much about small grammatical errors (i.e., punctuation in the wrong place, etc.), instead you should focus on the meaning and how well that meaning will be understood by a patient reading a letter sent home to them by their doctor. Typically this will be a case of judging whether the words that have been used are more likely to be understood by a patient without specialist medical expertise. This is a naturally subjective task and we expect you to use your own judgment to identify what would be easiest to understand for a patient reading this information in a letter from their doctor.
+
+Steps
+
+You will be presented with 4 sentences labelled A, B, C and D. You should first read the sentences carefully and ensure that you understand the meaning behind them. You will have 4 drop down boxes, which will ask you to rank the sentences from easiest to understand to hardest to understand. You should select the sentence that you find the easiest to understand in the first dropdown box. The next easiest goes in the second box, and so on. The sentence that you found the most difficult to understad should go in the fourth box. You must have a different sentence in each box. Any contributions with the same sentence label in more than one box may be discounted. The differences in sentences may be small, but we still want you to make a judgement about which is better than the other. all four sentences should be different in every case, but if you find two sentences that are the same then just put them next to each other in the rankings, selecting the highest letter in the alphabet as the higher rank (i.e., A should be above B if and only if the sentences are completely identical).
+
+Rules & Tips
+
+Take time to read the sentences and understand the meaning behind them
+
+Each box MUST have a different letter in it.
+
+You should use all four letters in the ranking
+
+Examples
+
+A: The patient had a fractured tibia
+
+B: The patient had a broken arm
+
+C: The patient had a fractured arm
+
+D: The patient sustained a fractured tibia
+
+
+Ranking:
+
+B is the easiest to understand for a patient (as it uses 'had', 'broken' and 'arm', which are more commonly understood words)
+
+C is the next easiest to understand (it uses 'had' and 'arm', but also 'fractured' which may not be understood by a patient)
+
+A is the third easiest, or second most difficult (it uses 'fractured tibia' which is hard to understand without medical expertise)
+
+D is the hardest (it uses 'sustained' in place of 'had' which may be further confusing to the patient)
+
