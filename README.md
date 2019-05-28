@@ -1,4 +1,18 @@
-In these files you will find all of the code needed to replicate the experiments undertaken as part of the paper: "Neural Text Simplification of Clinical Letters with a Domain Specific Phrase Table". In addition to the resources supplied here, you will need to access the following resources:
+In these files you will find all of the code needed to replicate the experiments undertaken as part of the paper: "Neural Text Simplification of Clinical Letters with a Domain Specific Phrase Table". If you find these resources helpful, please consider citing us as follows:
+
+@inproceedings{voita19,
+    title = "Neural Text Simplification of Clinical Letters with a Domain Specific Phrase Table",
+    author = "Shardlow, Matthew  and
+              Nawaz, Raheel",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = July,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+}
+
+
+In addition to the resources supplied here, you will need to access the following resources:
 
  - The i2b2 dataset 1B: https://www.i2b2.org/NLP/DataSets/Download.php
  - The MIMIC-III dataset: https://mimic.physionet.org/gettingstarted/access/
