@@ -1,6 +1,6 @@
 In these files you will find all of the code needed to replicate the experiments undertaken as part of the paper: "Neural Text Simplification of Clinical Letters with a Domain Specific Phrase Table". If you find these resources helpful, please consider citing us as follows:
 
-@inproceedings{voita19,
+@inproceedings{Shardlow19ACL,
     title = "Neural Text Simplification of Clinical Letters with a Domain Specific Phrase Table",
     author = "Shardlow, Matthew  and
               Nawaz, Raheel",
